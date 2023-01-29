@@ -1,4 +1,4 @@
-import '../styles.css';
+import '../css/style.css';
 import * as calc from './calc.js';
 import { copyToClipboard } from './copy.js';
 import { themeSwitcher } from './theme-switcher.js';
